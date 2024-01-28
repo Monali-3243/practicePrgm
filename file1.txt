@@ -9,4 +9,4 @@ Added a function featureNew(){
 }
 
 Bug is fixed with this line.
-
+Added one line on the remote repository
