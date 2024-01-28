@@ -5,4 +5,8 @@ Added a function featureNew(){
 
 // to do some implementation
 //adding a line to enhance the featureNew
+//one line added here to fix bug.
 }
+
+Bug is fixed with this line.
+
