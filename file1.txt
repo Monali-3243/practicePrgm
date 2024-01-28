@@ -4,5 +4,7 @@ Greetings...
 Added a function featureNew(){
 
 // to do some implementation
-
+//one line added here to fix bug.
 }
+
+Bug is fixed with this line.
